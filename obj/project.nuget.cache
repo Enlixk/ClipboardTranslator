@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxcohefurSObHn2mLMcVH1Mp7d2pWcQxDhWOk2NHFJOYsnp0x1DFHNkE0Px77vQ9zC7BJdhGgkiH/w1UTwDlAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Project2\\ClipboardTranslator\\ClipboardTranslator\\ClipboardTranslator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17943\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\17943\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512",
+    "C:\\Users\\17943\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

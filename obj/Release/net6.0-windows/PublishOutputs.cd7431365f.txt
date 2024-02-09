@@ -1,0 +1,8 @@
+D:\Files\Project2\Generate\ClipboardTranslator.exe
+D:\Files\Project2\Generate\ClipboardTranslator.dll
+D:\Files\Project2\Generate\ClipboardTranslator.deps.json
+D:\Files\Project2\Generate\ClipboardTranslator.runtimeconfig.json
+D:\Files\Project2\Generate\ClipboardTranslator.pdb
+D:\Files\Project2\Generate\MaterialSkin.dll
+D:\Files\Project2\Generate\Gma.System.MouseKeyHook.dll
+D:\Files\Project2\Generate\Newtonsoft.Json.dll
